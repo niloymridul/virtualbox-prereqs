@@ -57,3 +57,26 @@ Afterward, click next to start configuring and then click browse to see where yo
 https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/
 
 https://www.kali.org/get-kali/#kali-virtual-machines
+
+<p>
+<img src="https://github.com/niloymridul/virtualbox-prereqs/assets/139414980/bc7f1135-bb44-4575-9b96-fa6dd25dc031" height="70%" width="70%" alt="VirtualBox"/>
+</p>
+<p>
+<img src="https://github.com/niloymridul/virtualbox-prereqs/assets/139414980/b8a54041-55b5-4152-934a-fa388c6c1d7b" alt="VirtualBox"/>
+</p>
+
+<p>
+Afterward, you will need to open up Virtualbox and then import the virtual machines in. First, open VirtualBox Manager and then new at the top. Then give it a name. The folder is where the virtual machine will be placed so click the folder button. Then depending on where you downloaded the iso file (unpacking the Winrar package), you will have to click other in the dropdown menu and then go to the path where the iso file is. The VirtualBox Manager will automatically load it in. If in the event, you clicked on the vdi or VirtualBox file, a virtual machine will already be loaded on Virtualbox and will then open the operating system for you.
+</p>
+
+<p>
+<img src="https://github.com/niloymridul/virtualbox-prereqs/assets/139414980/683c57b0-ec65-410b-bc16-fd6a2cd4c837" alt="VirtualBox"/>
+</p>
+
+<p>
+After hitting next you will then have to create a username and password for the operating system. Be sure to write it down or remember it. Afterward, you will be taken to the hardware page. The more specs you give to the Virtual Machine, the more you take away from your actual computer so keep that in mind. You will then need to allocate virtual hard disk space. For this part of the Virtual Machine, the space will only be used if you use the virtual machine. 
+</p>
+
+<p>
+After you finish it, the manager will give you a summary of the virtual machine and then, if everything looks ok to you, you can then finish and the virtual machine will be fully implemented. And now do the same for the other machine(Kali or Windows or another OS you had in mind) and congratulations. You now have two operating systems on your device to experiment with which we will do in the next park.
+</p>
