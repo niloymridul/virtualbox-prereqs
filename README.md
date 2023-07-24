@@ -54,7 +54,7 @@ Afterward, click next to start configuring and then click browse to see where yo
 </p>
 <br />
 
-[Click here to go to the official download webpage of Windows OS Virtual Machines].(https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
+[Click here to go to the official download webpage of Windows OS Virtual Machines](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
 
 [Click here to go to the official download webpage of Kali Linux Virtual Machines](https://www.kali.org/get-kali/#kali-virtual-machines)
 
