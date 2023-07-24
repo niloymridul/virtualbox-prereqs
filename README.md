@@ -54,9 +54,9 @@ Afterward, click next to start configuring and then click browse to see where yo
 </p>
 <br />
 
-https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/
+[Click here to go to the official download webpage of Windows OS Virtual Machines].(https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
 
-https://www.kali.org/get-kali/#kali-virtual-machines
+[Click here to go to the official download webpage of Kali Linux Virtual Machines](https://www.kali.org/get-kali/#kali-virtual-machines)
 
 <p>
 <img src="https://github.com/niloymridul/virtualbox-prereqs/assets/139414980/bc7f1135-bb44-4575-9b96-fa6dd25dc031" height="70%" width="70%" alt="VirtualBox"/>
