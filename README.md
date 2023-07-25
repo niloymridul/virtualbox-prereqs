@@ -41,7 +41,7 @@ If you think your PC has all of the requirements then we will do the last step b
 Once that is out of the way, we can start by clicking the link below.
 </p>
 
-https://www.virtualbox.org/wiki/Downloads
+[Click here to go to the official download webpage of VirtualBox Manager](https://www.virtualbox.org/wiki/Downloads)
 
 <p>
 <img src="https://github.com/niloymridul/virtualbox-prereqs/assets/139414980/434a8f03-6efd-4f0b-934d-fad20eadf2be" height="80%" width="80%" alt="VirtualBox"/>
